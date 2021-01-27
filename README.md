@@ -18,3 +18,9 @@ I made some simple Unity Games:
 - [Ball Royale](https://yash-singh1.github.io/) (Local Multiplayer ball game)
 - [Procedural Skybox Designer](https://yash-singh1.github.io/procedural/) (Online designer for procedural skyboxes)
 - [Probability Fight](https://yash-singh1.github.io/fight/) (Probability fight between two people *math project*)
+
+## Contacts
+
+- [Mail](mailto:saiansh2525@gmail.com)
+- [Unity Connect](https://connect.unity.com/u/saiansh2525)
+- [NPM](https://www.npmjs.com/~saiansh2525)
