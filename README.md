@@ -19,6 +19,14 @@ I made some simple Unity Games:
 - [Procedural Skybox Designer](https://yash-singh1.github.io/procedural/) (Online designer for procedural skyboxes)
 - [Probability Fight](https://yash-singh1.github.io/fight/) (Probability fight between two people *math project*)
 
+## Learning
+
+I am always learning something new. Here is my current ones:
+
+- `RegExp` (RegExp is a very important part of programming, allowing developers to select certain parts of a text)
+- [`RandomGen`](https://orteil.dashnet.org/randomgen/?do=create) (A simple to use, random text generator language)
+- [Hindi](https://en.wikipedia.org/wiki/Hindi) (India's main language)
+
 ## Contacts
 
 - [Mail](mailto:saiansh2525@gmail.com)
