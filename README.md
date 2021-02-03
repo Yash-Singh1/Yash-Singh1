@@ -23,7 +23,7 @@ I made some simple Unity Games:
 
 I am always learning something new. Here is my current ones:
 
-- `RegExp` (RegExp is a very important part of programming, allowing developers to select certain parts of a text)
+- [`RegExp`](https://en.wikipedia.org/wiki/Regular_expression) (RegExp is a very important part of programming, allowing developers to select certain parts of a text)
 - [`RandomGen`](https://orteil.dashnet.org/randomgen/?do=create) (A simple to use, random text generator language)
 - [Hindi](https://en.wikipedia.org/wiki/Hindi) (India's main language)
 
