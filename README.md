@@ -11,6 +11,7 @@ I am a middle school student living in California, USA programming multiple diff
 - [`contributors-gen-cli`](https://github.com/Yash-Singh1/contributors-gen-cli) (CLI for `contributors-gen`)
 - [`equation-slides`](https://github.com/Yash-Singh1/equation-slides) (A chrome extension for inserting equations inside Google Slides)
 - [`monkeyIDE`](https://github.com/Yash-Singh1/monkeyIDE) (Multi-tab editor based on CodeMirror)
+- [`TranslateMD`](https://github.com/Yash-Singh1/TranslateMD) (API to translate markdown to different languages)
 - [`SurviveBash`](https://github.com/Yash-Singh1/SurviveBash) (Play it to learn Git Bash)
 
 ## Site
