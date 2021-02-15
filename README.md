@@ -9,6 +9,7 @@ I am a middle school student living in California, USA programming multiple diff
 - [`contributors-gen`](https://github.com/Yash-Singh1/contributors-gen) (Generate the `CONTRIBUTORS` file for GitHub)
 - [`jsonlines`](https://github.com/Yash-Singh1/JSONL.js) (Simple and lightweight javascript library for parsing JSONL)
 - [`contributors-gen-cli`](https://github.com/Yash-Singh1/contributors-gen-cli) (CLI for `contributors-gen`)
+- [`randomgen-editor`](https://github.com/Yash-Singh1/randomgen-editor) (Code editor for `RandomGen`)
 - [`equation-slides`](https://github.com/Yash-Singh1/equation-slides) (A chrome extension for inserting equations inside Google Slides)
 - [`monkeyIDE`](https://github.com/Yash-Singh1/monkeyIDE) (Multi-tab editor based on CodeMirror)
 - [`TranslateMD`](https://github.com/Yash-Singh1/TranslateMD) (API to translate markdown to different languages)
