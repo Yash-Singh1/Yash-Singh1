@@ -28,7 +28,7 @@ I made some simple Unity Games:
 
 I am always learning something new. Here is my current ones:
 
-- [`RandomGen`](https://orteil.dashnet.org/randomgen/?do=create) (A simple to use, random text generator language)
+- High School Geometry (Geometry is the mathematics of shapes, logic, and their properties)
 - [Hindi](https://en.wikipedia.org/wiki/Hindi) (India's main language)
 
 ## Contacts
