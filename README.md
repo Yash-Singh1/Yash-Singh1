@@ -6,6 +6,7 @@ I am a middle school student living in California, USA programming multiple diff
 
 - [`epack`](https://github.com/Yash-Singh1/epack) (GUI for making chrome extensions) **Under maintenance, DO NOT USE**
 - [`zoom.js`](https://github.com/Yash-Singh1/zoom.js) (A simple to use cross-browser javascript library for zooming in and out)
+- [`awesome-codemirror`](https://github.com/Yash-Singh1/awesome-codemirror) (Awesome page for `CodeMirror`)
 - [`contributors-gen`](https://github.com/Yash-Singh1/contributors-gen) (Generate the `CONTRIBUTORS` file for GitHub)
 - [`jsonlines`](https://github.com/Yash-Singh1/JSONL.js) (Simple and lightweight javascript library for parsing JSONL)
 - [`contributors-gen-cli`](https://github.com/Yash-Singh1/contributors-gen-cli) (CLI for `contributors-gen`)
