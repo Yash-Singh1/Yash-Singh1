@@ -30,7 +30,7 @@ I made some simple Unity Games:
 
 I am always learning something new. Here is my current ones:
 
-- High School Geometry (Geometry is the mathematics of shapes, logic, and their properties)
+- [High School Geometry](https://en.wikipedia.org/wiki/Geometry) (Geometry is the mathematics of shapes, logic, and their properties)
 - [Hindi](https://en.wikipedia.org/wiki/Hindi) (India's main language)
 
 ## Contacts
