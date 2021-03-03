@@ -14,6 +14,7 @@ I am a middle school student living in California, USA programming multiple diff
 - [`codemirror-mode-randomgen`](https://github.com/Yash-Singh1/codemirror-mode-randomgen) (Syntax highlighting `CodeMirror` mode for `RandomGen`)
 - [`randomgen-editor`](https://github.com/Yash-Singh1/randomgen-editor) (Code editor for `RandomGen`)
 - [`equation-slides`](https://github.com/Yash-Singh1/equation-slides) (A chrome extension for inserting equations inside Google Slides)
+- [`contributors-parser`](https://github.com/Yash-Singh1/contributors-parser) (A parser for CONTRIBUTORS-like syntax)
 - [`monkeyide`](https://github.com/Yash-Singh1/monkeyide) (Multi-tab editor based on CodeMirror)
 - [`TranslateMD`](https://github.com/Yash-Singh1/TranslateMD) (API to translate markdown to different languages)
 - [`SurviveBash`](https://github.com/Yash-Singh1/SurviveBash) (Play it to learn Git Bash)
