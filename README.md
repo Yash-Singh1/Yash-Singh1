@@ -24,7 +24,7 @@ I am a middle school student living in California, USA programming multiple diff
 I made some simple Unity Games:
 
 - [Ball Royale](https://github.com/Yash-Singh1/ball-royale) (Local Multiplayer ball game)
-- [Procedural Skybox Designer](https://yash-singh1.github.io/procedural/) (Online designer for procedural skyboxes)
+- [Procedural Skybox Designer](https://github.com/Yash-Singh1/procedural-skybox) (Online designer for procedural skyboxes)
 - [Probability Fight](https://yash-singh1.github.io/fight/) (Probability fight between two people *math project*)
 
 ## Learning
