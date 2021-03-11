@@ -25,7 +25,7 @@ I made some simple Unity Games:
 
 - [Ball Royale](https://github.com/Yash-Singh1/ball-royale) (Local Multiplayer ball game)
 - [Procedural Skybox Designer](https://github.com/Yash-Singh1/procedural-skybox) (Online designer for procedural skyboxes)
-- [Probability Fight](https://yash-singh1.github.io/fight/) (Probability fight between two people *math project*)
+- [Probability Fight](https://github.com/Yash-Singh1/probability-fight) (Probability fight between two people *math project*)
 
 ## Learning
 
