@@ -1,6 +1,6 @@
 # Yash Singh (`Yash-Singh1`)
 
-I am a middle school student living in California, USA programming multiple different things.
+I am a middle school student living in California, USA, programming multiple different things.
 
 ## Repositories
 
