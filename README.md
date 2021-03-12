@@ -3,7 +3,7 @@
 I am a middle school student living in California, USA, programming multiple different things.
 
 <p align="center">
-  <a href="#">
+  <a href="javascript:;">
     <img src="https://github-readme-stats.vercel.app/api?username=Yash-Singh1&count_private=true&theme=radical" alt="Statistics">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh1&layout=compact&langs_count=10&hide=shaderlab,hlsl&theme=radical&count_private=true" alt="Top Languages">
   </a>
@@ -82,7 +82,7 @@ I am always learning something new. Here is my current ones:
 - [NPM](https://www.npmjs.com/~saiansh2525)
 
 <p align="center">
-  <a href="#">
+  <a href="javascript:;">
     <img src="https://img.shields.io/badge/-CSharp-2e3440?logoColor=81a1c1&logo=C%20Sharp" />
     <img src="https://img.shields.io/badge/-Python-2e3440?logoColor=81a1c1&logo=Python" />
     <img src="https://img.shields.io/badge/-JavaScript-2e3440?logoColor=81a1c1&logo=JavaScript" />
