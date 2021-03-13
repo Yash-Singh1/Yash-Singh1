@@ -11,48 +11,20 @@ I am a middle school student living in California, USA, programming multiple dif
 
 ## Repositories
 
-- [`epack`](https://github.com/Yash-Singh1/epack) GUI for making chrome extensions **Under maintenance, DO NOT USE**
-
-  [![epack](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=epack)](https://github.com/Yash-Singh1/epack)
-- [`zoom.js`](https://github.com/Yash-Singh1/zoom.js) A simple to use cross-browser javascript library for zooming in and out
-
-  [![zoom.js](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=zoom.js)](https://github.com/Yash-Singh1/zoom.js)
-- [`awesome-codemirror`](https://github.com/Yash-Singh1/awesome-codemirror) Awesome page for `CodeMirror`
-
-  [![awesome-codemirror](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=awesome-codemirror)](https://github.com/Yash-Singh1/awesome-codemirror)
-- [`contributors-gen`](https://github.com/Yash-Singh1/contributors-gen) Generate the `CONTRIBUTORS` file for GitHub
-
-  [![contributors-gen](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=contributors-gen)](https://github.com/Yash-Singh1/contributors-gen)
-- [`jsonlines`](https://github.com/Yash-Singh1/JSONL.js) Simple and lightweight javascript library for parsing JSONL
-
-  [![jsonlines](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=jsonlines)](https://github.com/Yash-Singh1/JSONL.js)
-- [`contributors-gen-cli`](https://github.com/Yash-Singh1/contributors-gen-cli) CLI for `contributors-gen`
-
-  [![contributors-gen-cli](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=contributors-gen-cli)](https://github.com/Yash-Singh1/contributors-gen-cli)
-- [`randomgen-parser`](https://github.com/Yash-Singh1/randomgen-parser) Parser for `RandomGen`
-
-  [![randomgen-parser](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=randomgen-parser)](https://github.com/Yash-Singh1/randomgen-parser)
-- [`codemirror-mode-randomgen`](https://github.com/Yash-Singh1/codemirror-mode-randomgen) Syntax highlighting `CodeMirror` mode for `RandomGen`
-
-  [![codemirror-mode-randomgen](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=codemirror-mode-randomgen)](https://github.com/Yash-Singh1/codemirror-mode-randomgen)
-- [`randomgen-editor`](https://github.com/Yash-Singh1/randomgen-editor) Code editor for `RandomGen`
-
-  [![randomgen-editor](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=randomgen-editor)](https://github.com/Yash-Singh1/randomgen-editor)
-- [`equation-slides`](https://github.com/Yash-Singh1/equation-slides) A chrome extension for inserting equations inside Google Slides
-
-  [![equation-slides](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=equation-slides)](https://github.com/Yash-Singh1/equation-slides)
-- [`contributors-parser`](https://github.com/Yash-Singh1/contributors-parser) A parser for CONTRIBUTORS-like syntax
-
-  [![contributors-parser](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=contributors-parser)](https://github.com/Yash-Singh1/contributors-parser)
-- [`monkeyide`](https://github.com/Yash-Singh1/monkeyide) Multi-tab editor based on CodeMirror
-
-  [![monkeyide](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=monkeyide)](https://github.com/Yash-Singh1/monkeyide)
-- [`TranslateMD`](https://github.com/Yash-Singh1/TranslateMD) API to translate markdown to different languages
-
-  [![TranslateMD](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=TranslateMD)](https://github.com/Yash-Singh1/TranslateMD)
-- [`SurviveBash`](https://github.com/Yash-Singh1/SurviveBash) Play it to learn Git Bash
-
-  [![SurviveBash](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=SurviveBash)](https://github.com/Yash-Singh1/SurviveBash)
+[![epack](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=epack)](https://github.com/Yash-Singh1/epack)
+[![zoom.js](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=zoom.js)](https://github.com/Yash-Singh1/zoom.js)
+[![awesome-codemirror](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=awesome-codemirror)](https://github.com/Yash-Singh1/awesome-codemirror)
+[![contributors-gen](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=contributors-gen)](https://github.com/Yash-Singh1/contributors-gen)
+[![jsonlines](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=jsonlines)](https://github.com/Yash-Singh1/JSONL.js)
+[![contributors-gen-cli](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=contributors-gen-cli)](https://github.com/Yash-Singh1/contributors-gen-cli)
+[![randomgen-parser](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=randomgen-parser)](https://github.com/Yash-Singh1/randomgen-parser)
+[![codemirror-mode-randomgen](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=codemirror-mode-randomgen)](https://github.com/Yash-Singh1/codemirror-mode-randomgen)
+[![randomgen-editor](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=randomgen-editor)](https://github.com/Yash-Singh1/randomgen-editor)
+[![equation-slides](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=equation-slides)](https://github.com/Yash-Singh1/equation-slides)
+[![contributors-parser](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=contributors-parser)](https://github.com/Yash-Singh1/contributors-parser)
+[![monkeyide](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=monkeyide)](https://github.com/Yash-Singh1/monkeyide)
+[![TranslateMD](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=TranslateMD)](https://github.com/Yash-Singh1/TranslateMD)
+[![SurviveBash](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=radical&username=Yash-Singh1&repo=SurviveBash)](https://github.com/Yash-Singh1/SurviveBash)
 
 ## Site
 
