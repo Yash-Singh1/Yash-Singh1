@@ -19,6 +19,7 @@ I am a middle school student living in California, USA, programming multiple dif
 [![contributors-gen-cli](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=contributors-gen-cli)](https://github.com/Yash-Singh1/contributors-gen-cli)
 [![randomgen-parser](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=randomgen-parser)](https://github.com/Yash-Singh1/randomgen-parser)
 [![codemirror-mode-randomgen](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=codemirror-mode-randomgen)](https://github.com/Yash-Singh1/codemirror-mode-randomgen)
+[![node-dedupredup](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=node-dedupredup)](https://github.com/Yash-Singh1/node-dedupredup)
 [![randomgen-editor](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=randomgen-editor)](https://github.com/Yash-Singh1/randomgen-editor)
 [![equation-slides](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=equation-slides)](https://github.com/Yash-Singh1/equation-slides)
 [![contributors-parser](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=contributors-parser)](https://github.com/Yash-Singh1/contributors-parser)
