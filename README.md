@@ -27,6 +27,7 @@ I am a middle school student living in California, USA, programming multiple dif
 [![monkeyide](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=monkeyide)](https://github.com/Yash-Singh1/monkeyide)
 [![TranslateMD](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=TranslateMD)](https://github.com/Yash-Singh1/TranslateMD)
 [![SurviveBash](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=SurviveBash)](https://github.com/Yash-Singh1/SurviveBash)
+[![better-git-diff](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=better-git-diff)](https://github.com/Yash-Singh1/better-git-diff)
 
 ## Site
 
