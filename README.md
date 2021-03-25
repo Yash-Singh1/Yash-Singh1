@@ -5,7 +5,7 @@ I am a middle school student living in California, USA, programming multiple dif
 <p align="center">
   <a href="javascript:;">
     <img src="https://github-readme-stats.vercel.app/api?username=Yash-Singh1&count_private=true&theme=vue-dark" alt="Statistics">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh1&layout=compact&langs_count=10&hide=shaderlab,hlsl&theme=vue-dark&count_private=true" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh1&layout=compact&langs_count=10&theme=vue-dark&count_private=true" alt="Top Languages">
   </a>
 </p>
 
