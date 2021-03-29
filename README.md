@@ -15,7 +15,7 @@ I am a middle school student living in California, USA, programming multiple dif
 [![zoom.js](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=zoom.js)](https://github.com/Yash-Singh1/zoom.js)
 [![awesome-codemirror](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=awesome-codemirror)](https://github.com/Yash-Singh1/awesome-codemirror)
 [![contributors-gen](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=contributors-gen)](https://github.com/Yash-Singh1/contributors-gen)
-[![jsonlines](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=jsonlines)](https://github.com/Yash-Singh1/JSONL.js)
+[![jsonlines](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=jsonlines)](https://github.com/Yash-Singh1/jsonlines)
 [![contributors-gen-cli](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=contributors-gen-cli)](https://github.com/Yash-Singh1/contributors-gen-cli)
 [![randomgen-parser](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=randomgen-parser)](https://github.com/Yash-Singh1/randomgen-parser)
 [![codemirror-mode-randomgen](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=codemirror-mode-randomgen)](https://github.com/Yash-Singh1/codemirror-mode-randomgen)
