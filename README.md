@@ -60,7 +60,7 @@ I am always learning something new. Here is my current ones:
 
 <p align="center">
   <a href="javascript:;">
-    <img src="https://img.shields.io/badge/-CSharp-2e3440?logoColor=81a1c1&logo=C%20Sharp" />
+    <img src="https://img.shields.io/badge/-C%23-2e3440?logoColor=81a1c1&logo=C%20Sharp" />
     <img src="https://img.shields.io/badge/-Python-2e3440?logoColor=81a1c1&logo=Python" />
     <img src="https://img.shields.io/badge/-JavaScript-2e3440?logoColor=81a1c1&logo=JavaScript" />
     <img src="https://img.shields.io/badge/-TypeScript-2e3440?logoColor=81a1c1&logo=TypeScript" />
