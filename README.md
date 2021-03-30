@@ -70,9 +70,6 @@ I am always learning something new. Here is my current ones:
     <img src="https://img.shields.io/badge/-Bash-2e3440?logoColor=81a1c1&logo=GNU%20Bash" />
     <img src="https://img.shields.io/badge/-HTML5-2e3440?logoColor=81a1c1&logo=html5" />
     <img src="https://img.shields.io/badge/-CSS3-2e3440?logoColor=81a1c1&logo=CSS3" />
-    <img src="https://img.shields.io/badge/-Github-2e3440?logoColor=81a1c1&logo=github" />
-    <img src="https://img.shields.io/badge/-Linux-2e3440?logoColor=81a1c1&logo=linux" />
-    <img src="https://img.shields.io/badge/-Ubuntu-2e3440?logoColor=81a1c1&logo=ubuntu" />
     <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=81a1c1&logo=node.js" />
   </a>
 </p>
