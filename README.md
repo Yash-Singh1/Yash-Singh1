@@ -30,6 +30,7 @@ I am a middle school student living in California, USA, programming multiple dif
 [![better-git-diff](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=better-git-diff)](https://github.com/Yash-Singh1/better-git-diff)
 [![blog-site](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=blog-site)](https://github.com/Yash-Singh1/blog-site)
 [![npm-expansions-cli](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=npm-expansions-cli)](https://github.com/Yash-Singh1/npm-expansions-cli)
+[![npm-expansions-randomgen](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=npm-expansions-randomgen)](https://github.com/Yash-Singh1/npm-expansions-randomgen)
 
 ## Site
 
