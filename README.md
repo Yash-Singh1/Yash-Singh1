@@ -53,6 +53,7 @@ I made some simple Unity Games:
 I am always learning something new. Here is my current ones:
 
 - [App Development in Swift](https://en.wikipedia.org/wiki/Mobile_app_development) (Building apps on macOS, iOS, ipadOS, tvOS, etc. in Swift)
+- Finish off [Algebra](https://en.wikipedia.org/wiki/Algebra) (Manipulating terms, expressions, inequalities, equations, graphing, etc.)
 - [High School Geometry](https://en.wikipedia.org/wiki/Geometry) (Geometry is the mathematics of shapes, logic, and their properties)
 - [Hindi](https://en.wikipedia.org/wiki/Hindi) (India's main language)
 
