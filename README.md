@@ -33,6 +33,7 @@ I am a middle school student living in California, USA, programming multiple dif
 [![npm-expansions-randomgen](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=npm-expansions-randomgen)](https://github.com/Yash-Singh1/npm-expansions-randomgen)
 [![usaco-practice](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=usaco-practice)](https://github.com/Yash-Singh1/usaco-practice)
 [![Yash-Singh1.github.io](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=Yash-Singh1.github.io)](https://github.com/Yash-Singh1/Yash-Singh1.github.io)
+[![covid-vaccine-checker](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=covid-vaccine-checker)](https://github.com/Yash-Singh1/covid-vaccine-checker)
 
 ## Site
 
