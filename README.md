@@ -9,60 +9,16 @@ I am a middle school student living in California, USA, programming multiple dif
   </a>
 </p>
 
-## Repositories
+## Working On
 
-[![epack](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=epack)](https://github.com/Yash-Singh1/epack)
-[![zoom.js](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=zoom.js)](https://github.com/Yash-Singh1/zoom.js)
-[![awesome-codemirror](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=awesome-codemirror)](https://github.com/Yash-Singh1/awesome-codemirror)
-[![contributors-gen](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=contributors-gen)](https://github.com/Yash-Singh1/contributors-gen)
-[![jsonlines](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=jsonlines)](https://github.com/Yash-Singh1/jsonlines)
-[![contributors-gen-cli](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=contributors-gen-cli)](https://github.com/Yash-Singh1/contributors-gen-cli)
-[![randomgen-parser](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=randomgen-parser)](https://github.com/Yash-Singh1/randomgen-parser)
-[![codemirror-mode-randomgen](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=codemirror-mode-randomgen)](https://github.com/Yash-Singh1/codemirror-mode-randomgen)
-[![node-dedupredup](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=node-dedupredup)](https://github.com/Yash-Singh1/node-dedupredup)
-[![dedupredup-cli](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=dedupredup-cli)](https://github.com/Yash-Singh1/dedupredup-cli)
-[![randomgen-editor](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=randomgen-editor)](https://github.com/Yash-Singh1/randomgen-editor)
-[![equation-slides](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=equation-slides)](https://github.com/Yash-Singh1/equation-slides)
-[![contributors-parser](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=contributors-parser)](https://github.com/Yash-Singh1/contributors-parser)
-[![monkeyide](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=monkeyide)](https://github.com/Yash-Singh1/monkeyide)
-[![TranslateMD](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=TranslateMD)](https://github.com/Yash-Singh1/TranslateMD)
-[![SurviveBash](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=SurviveBash)](https://github.com/Yash-Singh1/SurviveBash)
-[![better-git-diff](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=better-git-diff)](https://github.com/Yash-Singh1/better-git-diff)
-[![blog-site](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=blog-site)](https://github.com/Yash-Singh1/blog-site)
-[![npm-expansions-cli](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=npm-expansions-cli)](https://github.com/Yash-Singh1/npm-expansions-cli)
-[![npm-expansions-randomgen](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=npm-expansions-randomgen)](https://github.com/Yash-Singh1/npm-expansions-randomgen)
-[![usaco-practice](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=usaco-practice)](https://github.com/Yash-Singh1/usaco-practice)
-[![Yash-Singh1.github.io](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=Yash-Singh1.github.io)](https://github.com/Yash-Singh1/Yash-Singh1.github.io)
-[![covid-vaccine-checker](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=covid-vaccine-checker)](https://github.com/Yash-Singh1/covid-vaccine-checker)
+I am pretty much always working on something:
 
-## Site
-
-I made some simple Unity Games:
-
-- [`ball-royale`](https://github.com/Yash-Singh1/ball-royale) Local Multiplayer ball game
-
-  [![ball-royale](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=ball-royale)](https://github.com/Yash-Singh1/ball-royale)
-- [`procedural-skybox`](https://github.com/Yash-Singh1/procedural-skybox) Online designer for procedural skyboxes
-
-  [![procedural-skybox](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=procedural-skybox)](https://github.com/Yash-Singh1/procedural-skybox)
-- [`probability-fight`](https://github.com/Yash-Singh1/probability-fight) Probability fight between two people (*math project*)
-
-  [![probability-fight](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=vue-dark&username=Yash-Singh1&repo=probability-fight)](https://github.com/Yash-Singh1/probability-fight)
-
-## Learning
-
-I am always learning something new. Here is my current ones:
-
-- [App Development in Swift](https://en.wikipedia.org/wiki/Mobile_app_development) (Building apps on macOS, iOS, ipadOS, tvOS, etc. in Swift)
-- Finish off [Algebra](https://en.wikipedia.org/wiki/Algebra) (Manipulating terms, expressions, inequalities, equations, graphing, etc.)
-- [High School Geometry](https://en.wikipedia.org/wiki/Geometry) (Geometry is the mathematics of shapes, logic, and their properties)
-- [Hindi](https://en.wikipedia.org/wiki/Hindi) (India's main language)
-
-## Contacts
-
-- [Mail](mailto:saiansh2525@gmail.com)
-- [Unity Connect](https://connect.unity.com/u/saiansh2525)
-- [NPM](https://www.npmjs.com/~saiansh2525)
+- Complete `epack`
+- Prepare for the USACO exams
+- Finish Algebra
+- Learn some more `swift`
+- Writing a blog article on `Gitlab Flavored Markdown vs. GitHub Flavored Markdown`
+- Dive a bit deeper into `python`
 
 <p align="center">
   <a href="javascript:;">
