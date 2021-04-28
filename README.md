@@ -9,7 +9,7 @@ I am a middle school student living in California, USA, programming multiple dif
   </a>
 </p>
 
-## Working On
+## 📝 Working On
 
 I am pretty much always working on something:
 
@@ -19,6 +19,10 @@ I am pretty much always working on something:
 - Learn some more `swift`
 - Writing a blog article on `Gitlab Flavored Markdown vs. GitHub Flavored Markdown`
 - Dive a bit deeper into `python`
+
+## 📰 Blog
+
+I have a blog article at <http://yash-singh1.github.io/>
 
 <p align="center">
   <a href="javascript:;">
