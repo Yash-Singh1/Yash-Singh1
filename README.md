@@ -21,7 +21,7 @@ I am pretty much always working on something:
 
 ## 📰 Blog
 
-I have a blog article at <http://yash-singh1.github.io/>
+I have a blog at <http://yash-singh1.github.io/>
 
 <p align="center">
   <a href="javascript:;">
