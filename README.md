@@ -17,7 +17,6 @@ I am pretty much always working on something:
 - Prepare for the USACO contest
 - Finish Algebra
 - Learn some more `swift`
-- Writing a blog article on `Gitlab Flavored Markdown vs. GitHub Flavored Markdown`
 - Dive a bit deeper into `python`
 
 ## 📰 Blog
