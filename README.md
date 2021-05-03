@@ -17,6 +17,7 @@ I am pretty much always working on something:
 - Prepare for the USACO contest
 - Finish Algebra
 - Learn some more `swift`
+- Learn Typescript, GraphQL, and JSON Schema
 - Dive a bit deeper into `python`
 
 ## 📰 Blog
