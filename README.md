@@ -19,6 +19,7 @@ I am pretty much always working on something:
 - Learn some more `swift`
 - Learn Typescript and GraphQL
 - Dive a bit deeper into `python`
+- Connecting a domain to my blog
 
 ## 📰 Blog
 
