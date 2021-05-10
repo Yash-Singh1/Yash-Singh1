@@ -14,7 +14,6 @@ I am a middle school student living in California, USA, programming multiple dif
 
 I am pretty much always working on something:
 
-- Complete `epack`
 - Prepare for the USACO
 - Finish Algebra
 - Learn some more `swift`
