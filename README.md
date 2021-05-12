@@ -1,5 +1,7 @@
 # Yash Singh (`Yash-Singh1`)
 
+<img src="https://komarev.com/ghpvc/?username=Yash-Singh1&color=ff69b4&label=Profile+views" />
+
 I am a middle school student living in California, USA, programming multiple different things.
 
 <p align="center">
