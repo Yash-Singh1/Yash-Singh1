@@ -19,7 +19,11 @@ I am pretty much always working on something:
 - Prepare for the USACO
 - Finish Algebra
 - Learn some more `swift`
-- Learn Typescript and GraphQL
+- Learn
+  - Typescript
+  - GraphQL
+  - JQuery
+  - Svelte
 - Dive a bit deeper into `python`
 
 ## 📰 Blog
