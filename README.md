@@ -22,7 +22,6 @@ I am pretty much always working on something:
 - Learn
   - Typescript
   - GraphQL
-  - JQuery
   - Svelte
 - Dive a bit deeper into `python`
 
