@@ -23,6 +23,7 @@ I am pretty much always working on something:
   - Typescript
   - GraphQL
   - Svelte
+  - Webpack
 - Dive a bit deeper into `python`
 
 ## 📰 Blog
