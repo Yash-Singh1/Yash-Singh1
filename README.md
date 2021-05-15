@@ -1,4 +1,4 @@
-# Yash Singh (`Yash-Singh1`)
+# Hey There! <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="40px" />
 
 <img src="https://komarev.com/ghpvc/?username=Yash-Singh1&color=ff69b4&label=Profile+views" />
 
@@ -35,15 +35,15 @@ I have a blog at <http://www.yashsingh.us/>
 
 <p align="center">
   <a href="javascript:;">
-    <img src="https://img.shields.io/badge/-C%23-2e3440?logoColor=81a1c1&logo=C%20Sharp" />
-    <img src="https://img.shields.io/badge/-Python-2e3440?logoColor=81a1c1&logo=Python" />
-    <img src="https://img.shields.io/badge/-JavaScript-2e3440?logoColor=81a1c1&logo=JavaScript" />
-    <img src="https://img.shields.io/badge/-TypeScript-2e3440?logoColor=81a1c1&logo=TypeScript" />
-    <img src="https://img.shields.io/badge/-CoffeeScript-2e3440?logoColor=81a1c1&logo=CoffeeScript" />
-    <img src="https://img.shields.io/badge/-Swift-2e3440?logoColor=81a1c1&logo=Swift" />
-    <img src="https://img.shields.io/badge/-Bash-2e3440?logoColor=81a1c1&logo=GNU%20Bash" />
-    <img src="https://img.shields.io/badge/-HTML5-2e3440?logoColor=81a1c1&logo=html5" />
-    <img src="https://img.shields.io/badge/-CSS3-2e3440?logoColor=81a1c1&logo=CSS3" />
-    <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=81a1c1&logo=node.js" />
+    <img src="https://img.shields.io/badge/-C%23-2e3440?logoColor=white&logo=C%20Sharp&style=flat-square&color=blue" />
+    <img src="https://img.shields.io/badge/-Python-2e3440?logoColor=white&logo=Python&style=flat-square&color=red" />
+    <img src="https://img.shields.io/badge/-JavaScript-2e3440?logoColor=white&logo=JavaScript&style=flat-square&color=green" />
+    <img src="https://img.shields.io/badge/-TypeScript-2e3440?logoColor=white&logo=TypeScript&style=flat-square&color=orange" />
+    <img src="https://img.shields.io/badge/-CoffeeScript-2e3440?logoColor=white&logo=CoffeeScript&style=flat-square&color=brown" />
+    <img src="https://img.shields.io/badge/-Swift-2e3440?logoColor=white&logo=Swift&style=flat-square&color=yellow" />
+    <img src="https://img.shields.io/badge/-Bash-2e3440?logoColor=white&logo=GNU%20Bash&style=flat-square&color=purple" />
+    <img src="https://img.shields.io/badge/-HTML5-2e3440?logoColor=white&logo=html5&style=flat-square&color=green" />
+    <img src="https://img.shields.io/badge/-CSS3-2e3440?logoColor=white&logo=CSS3&style=flat-square&color=blue" />
+    <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=white&logo=node.js&style=flat-square&color=red" />
   </a>
 </p>
