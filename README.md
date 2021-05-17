@@ -41,14 +41,14 @@ I have a blog at <http://www.yashsingh.us/>
 
 <p align="center">
   <a href="javascript:;">
-    <img src="https://img.shields.io/badge/-C%23-2e3440?logoColor=white&logo=C%20Sharp&style=flat-square&color=blue" />
-    <img src="https://img.shields.io/badge/-Python-2e3440?logoColor=white&logo=Python&style=flat-square&color=red" />
-    <img src="https://img.shields.io/badge/-JavaScript-2e3440?logoColor=white&logo=JavaScript&style=flat-square&color=yellow" />
-    <img src="https://img.shields.io/badge/-TypeScript-2e3440?logoColor=white&logo=TypeScript&style=flat-square&color=orange" />
-    <img src="https://img.shields.io/badge/-CoffeeScript-2e3440?logoColor=white&logo=CoffeeScript&style=flat-square&color=brown" />
-    <img src="https://img.shields.io/badge/-Bash-2e3440?logoColor=white&logo=GNU%20Bash&style=flat-square&color=purple" />
-    <img src="https://img.shields.io/badge/-HTML5-2e3440?logoColor=white&logo=html5&style=flat-square&color=green" />
-    <img src="https://img.shields.io/badge/-CSS3-2e3440?logoColor=white&logo=CSS3&style=flat-square&color=blue" />
-    <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=white&logo=node-dot-js&style=flat-square&color=red" />
+    <img src="https://img.shields.io/badge/-C%23-2e3440?logoColor=white&logo=C%20Sharp&style=for-the-badge&color=blue" />
+    <img src="https://img.shields.io/badge/-Python-2e3440?logoColor=white&logo=Python&style=for-the-badge&color=red" />
+    <img src="https://img.shields.io/badge/-JavaScript-2e3440?logoColor=white&logo=JavaScript&style=for-the-badge&color=yellow" />
+    <img src="https://img.shields.io/badge/-TypeScript-2e3440?logoColor=white&logo=TypeScript&style=for-the-badge&color=orange" />
+    <img src="https://img.shields.io/badge/-CoffeeScript-2e3440?logoColor=white&logo=CoffeeScript&style=for-the-badge&color=brown" />
+    <img src="https://img.shields.io/badge/-Bash-2e3440?logoColor=white&logo=GNU%20Bash&style=for-the-badge&color=purple" />
+    <img src="https://img.shields.io/badge/-HTML5-2e3440?logoColor=white&logo=html5&style=for-the-badge&color=green" />
+    <img src="https://img.shields.io/badge/-CSS3-2e3440?logoColor=white&logo=CSS3&style=for-the-badge&color=blue" />
+    <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=white&logo=node-dot-js&style=for-the-badge&color=red" />
   </a>
 </p>
