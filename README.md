@@ -49,6 +49,6 @@ I have a blog at <http://www.yashsingh.us/>
     <img src="https://img.shields.io/badge/-Bash-2e3440?logoColor=white&logo=GNU%20Bash&style=flat-square&color=purple" />
     <img src="https://img.shields.io/badge/-HTML5-2e3440?logoColor=white&logo=html5&style=flat-square&color=green" />
     <img src="https://img.shields.io/badge/-CSS3-2e3440?logoColor=white&logo=CSS3&style=flat-square&color=blue" />
-    <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=white&logo=node.js&style=flat-square&color=red" />
+    <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=white&logo=node-dot-js&style=flat-square&color=red" />
   </a>
 </p>
