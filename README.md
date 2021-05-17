@@ -6,13 +6,18 @@ I am a middle school student living in California, USA, programming multiple dif
 
 I am pretty much always working on something:
 
-- Prepare for the USACO
-- Finish Algebra
-- Learn
+- 📖 Prepare for the USACO
+- 📘 Finish Algebra
+- 🌱 Learn
   - Typescript
   - GraphQL
   - Svelte
-- Dive a bit deeper into `python`
+  - C++
+  - Arduino
+  - Tailwind CSS
+  - ReactJS
+  - MongoDB
+  - Python
 
 ## 📰 Blog
 
