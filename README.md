@@ -22,14 +22,24 @@ I have a blog at <http://www.yashsingh.us/>
 
 ## 📈 Stats
 
-<details>
-  <summary>Github Stats</summary>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Singh1&count_private=true&theme=vue-dark" alt="Statistics" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh1&layout=compact&langs_count=10&theme=vue-dark&count_private=true" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Yash-Singh1&theme=nord&column=7" alt="Trophies" />
-</details>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Singh1&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Yash-Singh1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh1&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Yash-Singh1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 <p align="center">
   <a href="javascript:;">
