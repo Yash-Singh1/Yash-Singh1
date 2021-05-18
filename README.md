@@ -41,7 +41,9 @@ I have a blog at <http://www.yashsingh.us/blog/>
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Yash-Singh1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Yash-Singh1&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%"/>
+  </a>
 </p>
 
 <p align="center">
