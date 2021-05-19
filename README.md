@@ -1,6 +1,6 @@
 # Hey There! <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="40px" /> <img src="https://komarev.com/ghpvc/?username=Yash-Singh1&color=ff69b4&label=visitors&style=flat-square" align="right" />
 
-I am a middle school student living in California, USA, programming multiple different things.
+I am a middle school student living in California, USA, programming multiple different things. You can learn more about me here: <http://www.yashsingh.us/>.
 
 ## 📝 Working On
 
