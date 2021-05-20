@@ -43,6 +43,7 @@ I have a blog at <http://www.yashsingh.us/blog/>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=Yash-Singh1&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%"/>
   </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Yash-Singh1&theme=nord&column=7" alt="Trophies" />
 </p>
 
 <p align="center">
