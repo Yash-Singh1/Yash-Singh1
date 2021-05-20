@@ -14,7 +14,6 @@ I am pretty much always working on something:
   - Svelte
   - C++
   - Arduino
-  - Tailwind CSS
   - ReactJS
   - MongoDB
   - Python
