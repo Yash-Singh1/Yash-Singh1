@@ -19,6 +19,7 @@ I am pretty much always working on something:
   - VueJS
   - NextJS
   - MongoDB
+  - Bootstrap
   - Python
 
 ## 📰 Blog
