@@ -15,6 +15,9 @@ I am pretty much always working on something:
   - C++
   - Arduino
   - ReactJS
+  - Redux
+  - VueJS
+  - NextJS
   - MongoDB
   - Python
 
