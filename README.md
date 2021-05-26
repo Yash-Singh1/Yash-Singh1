@@ -47,7 +47,7 @@ I have a blog at <http://www.yashsingh.us/blog/>
     </a>
   </div>
   <br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <div align="center">
+  <div align="center" title="Go to Source">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
         width="325"
@@ -58,7 +58,7 @@ I have a blog at <http://www.yashsingh.us/blog/>
   </div>
   <br />
   <div align="center">
-    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center">
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center" title="Go to Source">
       <img
         src="https://activity-graph.herokuapp.com/graph?username=Yash-Singh1&theme=react-dark&bg_color=20232a&hide_border=true&area=true"
         alt="Contributions Graph"
@@ -68,7 +68,7 @@ I have a blog at <http://www.yashsingh.us/blog/>
   </div>
   <br />
   <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img src="https://github-profile-trophy.vercel.app/?username=Yash-Singh1&theme=nord&column=7" alt="Trophies" />
     </a>
   </div>
