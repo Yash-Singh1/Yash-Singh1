@@ -8,19 +8,7 @@ I am pretty much always working on something:
 
 - 📖 Prepare for the USACO
 - 📘 Finish Algebra
-- 🌱 Learn
-  - Typescript
-  - GraphQL
-  - Svelte
-  - C++
-  - Arduino
-  - ReactJS
-  - Redux
-  - VueJS
-  - NextJS
-  - MongoDB
-  - Bootstrap
-  - Python
+- 🌱 Learn React and Redux
 
 ## 📰 Blog
 
