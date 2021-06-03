@@ -12,7 +12,7 @@ I am pretty much always working on something:
 
 ## 📰 Blog
 
-I have a blog at <http://www.yashsingh.us/blog/>
+I have a blog at <http://www.yashsingh.us/blog/>.
 
 ## 📈 Stats
 
