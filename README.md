@@ -74,6 +74,6 @@ I have a blog at <http://www.yashsingh.us/blog/>.
     <img src="https://img.shields.io/badge/-Bash-2e3440?logoColor=white&logo=GNU%20Bash&style=for-the-badge&color=purple" />
     <img src="https://img.shields.io/badge/-HTML5-2e3440?logoColor=white&logo=html5&style=for-the-badge&color=green" />
     <img src="https://img.shields.io/badge/-CSS3-2e3440?logoColor=white&logo=CSS3&style=for-the-badge&color=blue" />
-    <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=white&logo=node-dot-js&style=for-the-badge&color=red" />
+    <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=white&logo=nodedotjs&style=for-the-badge&color=red" />
   </a>
 </p>
