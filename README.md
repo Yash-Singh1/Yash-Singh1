@@ -8,7 +8,7 @@ I am pretty much always working on something:
 
 - 📖 Prepare for the USACO
 - 📘 Finish Algebra
-- 🌱 Learn React and Redux
+- 🌱 Learn React Hooks
 
 ## 📰 Blog
 
