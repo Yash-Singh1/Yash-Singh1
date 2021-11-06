@@ -18,18 +18,10 @@ I have a blog at <http://www.yashsingh.us/blog/>.
 
 <div align="center">
   <div align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img
-        align="left"
-        width="396"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Singh1&theme=react&border=61dafb&hide_border=true"
-        alt="zumrudu-anka"
-      />
-    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img
-        align="right"
-        width="396"
+        align="center"
+        width="50%"
         src="https://github-readme-stats.vercel.app/api?username=Yash-Singh1&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
       />
     </a>
@@ -44,7 +36,6 @@ I have a blog at <http://www.yashsingh.us/blog/>.
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
-        width="325"
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh1&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
       />
