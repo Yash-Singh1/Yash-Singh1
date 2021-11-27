@@ -21,7 +21,9 @@ You can plant your flag on my README! Just ⭐ this repository and it will updat
 
 <!-- FLAG FARM START -->
 
-No flags were planted yet. You can be the first one to plant one!
+*You can click on any of the flags to reveal whose territory it is*
+<br />
+[🚩](https://github.com/Yash-Singh1)
 
 <!-- FLAG FARM END -->
 
