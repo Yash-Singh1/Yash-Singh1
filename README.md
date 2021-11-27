@@ -13,6 +13,20 @@ I am Yash Singh, a Lawson Middle School student, living in California, USA, prog
 - 🌱 Learning NextJS and CSS3
 - 📰 Read my [blog](http://www.yashsingh.us/blog/)
 
+## 🚩 Flag Farm
+
+You can plant your flag on my README! Just ⭐ this repository and it will update the flags below (give it some time to run the workflow):
+
+---
+
+<!-- FLAG FARM START -->
+
+No flags were planted yet. You can be the first one to plant one!
+
+<!-- FLAG FARM END -->
+
+---
+
 ## 📈 Stats
 
 <div align="center">

@@ -1,0 +1,22 @@
+{
+	"name": "yash-singh1",
+	"version": "1.0.0",
+	"description": "My GitHub Profile README",
+	"main": "scripts/plantflag.js",
+	"scripts": {
+		"plantflag": "node scripts/plantflag.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Yash-Singh1/Yash-Singh1.git"
+	},
+	"author": "Yash Singh",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Yash-Singh1/Yash-Singh1/issues"
+	},
+	"homepage": "https://github.com/Yash-Singh1/Yash-Singh1#readme",
+	"dependencies": {
+		"@actions/github": "^5.0.0"
+	}
+}

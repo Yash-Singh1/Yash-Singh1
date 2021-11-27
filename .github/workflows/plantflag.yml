@@ -1,0 +1,28 @@
+name: 'Plant Flag'
+
+on:
+  watch:
+    types: [started]
+
+jobs:
+  plantflag:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone the Repository
+        uses: actions/checkout@v2.4.0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16.x
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Plant Flag
+        run: npm run plantflag
+
+      - name: Commit Changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          add: 'README.md'
