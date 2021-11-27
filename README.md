@@ -1,18 +1,17 @@
+<!-- markdownlint-disable no-inline-html first-line-heading -->
+
+![banner](https://miro.medium.com/max/2560/1*nPpAXaLi47zxgyqy8Hmf-g.png)
+
 # Hey There! <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="40px" /> <img src="https://komarev.com/ghpvc/?username=Yash-Singh1&color=ff69b4&label=visitors&style=flat-square" align="right" />
 
-I am a middle school student living in California, USA, programming multiple different things. You can learn more about me here: <http://www.yashsingh.us/>.
+I am Yash Singh, a Lawson Middle School student, living in California, USA, programming multiple different things. You can learn more about me here: <http://www.yashsingh.us/>.
 
-## 📝 Working On
+## 📝 Getting to Know Me
 
-I am pretty much always working on something:
-
-- 📖 Prepare for the USACO
-- 📘 Finish Algebra
-- 🌱 Learn CSS3
-
-## 📰 Blog
-
-I have a blog at <http://www.yashsingh.us/blog/>.
+- ⚛️ I love React and Svelte
+- 🐧 I use ZSH as my terminal
+- 🌱 Learning NextJS and CSS3
+- 📰 Read my [blog](http://www.yashsingh.us/blog/)
 
 ## 📈 Stats
 
