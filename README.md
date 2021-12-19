@@ -29,8 +29,10 @@ You can plant your flag on my README! Just ⭐ this repository and it will updat
 
 ---
 
-## 📈 Stats
+<details>
 
+<summary>My GitHub Stats</summary>
+  
 <div align="center">
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -49,12 +51,7 @@ You can plant your flag on my README! Just ⭐ this repository and it will updat
         width="100%"
       />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh1&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true"
-      />
-    </a>
+    <img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Yash-Singh1&padding=16" />
   </div>
   <br />
   <div align="center">
@@ -63,6 +60,8 @@ You can plant your flag on my README! Just ⭐ this repository and it will updat
     </a>
   </div>
 </div>
+
+</details>
 
 <br />
 
