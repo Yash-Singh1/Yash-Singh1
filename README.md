@@ -54,7 +54,7 @@ _You can click on any of the flags to reveal whose territory it is_
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh1&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Singh1&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&hide=roff"
       />
     </a>
   </div>
