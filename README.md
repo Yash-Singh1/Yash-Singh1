@@ -82,5 +82,6 @@ _You can click on any of the flags to reveal whose territory it is_
     <img src="https://img.shields.io/badge/-Bash-2e3440?logoColor=white&logo=GNU%20Bash&style=for-the-badge&color=89e051" />
     <img src="https://img.shields.io/badge/-C%23-2e3440?logoColor=white&logo=C%20Sharp&style=for-the-badge&color=178600" />
     <img src="https://img.shields.io/badge/-Python-2e3440?logoColor=white&logo=Python&style=for-the-badge&color=3572A5" />
+    <img src="https://img.shields.io/badge/-C++-2e3440?logoColor=white&logo=cplusplus&style=for-the-badge&color=F34B7D" />
   </a>
 </p>
