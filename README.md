@@ -10,7 +10,7 @@ I am Yash Singh, a Lawson Middle School student, living in California, USA, prog
 
 - ⚛️ I love React and Svelte
 - 🐧 I use ZSH as my terminal
-- 🌱 Learning NextJS and CSS3
+- 🌱 Learning C++
 - 📰 Read my [blog](http://www.yashsingh.us/blog/)
 
 ## 🚩 Flag Farm
