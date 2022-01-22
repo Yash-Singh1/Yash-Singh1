@@ -23,9 +23,7 @@ You can plant your flag on my README! Just ⭐ this repository and it will updat
 
 *You can click on any of the flags to reveal whose territory it is*
 <br />
-[🚩](https://github.com/alexsanjoseph) _You can click on any of the flags to reveal whose territory it is_
-<br />
-[🚩](https://github.com/saiveer-singh) [🚩](https://github.com/Yash-Singh1)
+[🚩](https://github.com/alexsanjoseph) [🚩](https://github.com/saiveer-singh) [🚩](https://github.com/Yash-Singh1)
 
 <!-- FLAG FARM END -->
 
