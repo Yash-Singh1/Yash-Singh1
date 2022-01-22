@@ -6,7 +6,7 @@ const closingComment = '<!-- FLAG FARM END -->';
 const currentREADME = fs.readFileSync('./README.md', 'utf-8');
 let flags = currentREADME.split(startingComment)[1].split(closingComment)[0];
 const startingMessage =
-	'*You can click on any of the flags to reveal whose territory it is*\n<br />\n';
+	'_You can click on any of the flags to reveal whose territory it is_\n<br />\n';
 const newFlagText = `[🚩](https://github.com/${context.actor})`;
 
 if (flags.includes(newFlagText)) {
