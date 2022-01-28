@@ -10,7 +10,8 @@ const startingMessage =
 const newFlagText = `[🚩](https://github.com/${context.actor})`;
 
 if (flags.includes(newFlagText)) {
-	process.exit(1);
+	console.log('The flag for the user who triggered this star already exists. Aborting...');
+	process.exit(0);
 }
 
 if (!flags.includes('🚩')) {
