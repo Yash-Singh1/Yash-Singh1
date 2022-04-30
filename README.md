@@ -72,7 +72,7 @@ _You can click on any of the flags to reveal whose territory it is_
 
 <p align="center">
   <a href="javascript:;">
-    <img src="https://img.shields.io/badge/-JavaScript-2e3440?logoColor=white&logo=JavaScript&style=for-the-badge&color=f1e05a" />
+    <img src="https://img.shields.io/badge/-JavaScript-2e3440?logoColor=black&logo=JavaScript&style=for-the-badge&color=f1e05a" />
     <img src="https://img.shields.io/badge/-React-2e3440?logoColor=white&logo=React&style=for-the-badge&color=purple" />
     <img src="https://img.shields.io/badge/-TypeScript-2e3440?logoColor=white&logo=TypeScript&style=for-the-badge&color=2b7489" />
     <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=white&logo=nodedotjs&style=for-the-badge&color=green" />
