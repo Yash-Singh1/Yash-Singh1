@@ -1,5 +1,5 @@
-const fs = require('fs');
-const { context } = require('@actions/github');
+import fs from 'node:fs';
+import { context } from '@actions/github';
 
 const startingComment = '<!-- FLAG FARM START -->';
 const closingComment = '<!-- FLAG FARM END -->';
@@ -20,24 +20,24 @@ if (!flags.includes('🚩')) {
 	if (flags.includes('<details>')) {
 		flags = flags.replace(/<details>\s*<summary>.*?<\/summary>/m, '').replace('</details>', '');
 	}
-	flags = flags
+	let flagsArr = flags
 		.replace(startingMessage, '')
 		.trim()
 		.split(' ')
 		.map((flag) => flag.trim())
 		.filter((flag) => flag !== '');
 
-	flags.unshift(newFlagText);
+	flagsArr.unshift(newFlagText);
 
 	if (flags.length > 439) {
-		const newFlags = flags.slice(0, 330);
-		const oldFlags = flags.slice(330);
+		const newFlags = flagsArr.slice(0, 330);
+		const oldFlags = flagsArr.slice(330);
 
 		flags =
 			newFlags.join(' ') +
 			`\n<details>\n<summary>More Flags</summary>\n${oldFlags.join(' ')}\n</details>`;
 	} else {
-		flags = flags.join(' ');
+		flags = flagsArr.join(' ');
 	}
 
 	flags = `${startingComment}\n\n${startingMessage}${flags}\n\n${closingComment}`;
