@@ -4,7 +4,7 @@
 	"description": "My GitHub Profile README",
 	"main": "scripts/plantflag.js",
 	"scripts": {
-		"plantflag": "tsc scripts/plantflag.ts --outfile scripts/plantflag.js && node scripts/plantflag.js"
+		"plantflag": "tsc scripts/plantflag.ts && node scripts/plantflag.js"
 	},
 	"repository": {
 		"type": "git",
