@@ -1,4 +1,4 @@
-import fs from 'node:fs';
+import * as fs from 'node:fs';
 import { context } from '@actions/github';
 
 const startingComment = '<!-- FLAG FARM START -->';
