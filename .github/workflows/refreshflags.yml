@@ -3,7 +3,7 @@ name: 'Refresh Flags'
 on: workflow_dispatch
 
 jobs:
-  plantflag:
+  refreshflags:
     runs-on: ubuntu-latest
     steps:
       - name: Clone the Repository
@@ -19,6 +19,8 @@ jobs:
 
       - name: Refresh Flags
         run: npm run refreshflags
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit Changes
         uses: EndBug/add-and-commit@v9
