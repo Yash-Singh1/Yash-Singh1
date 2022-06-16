@@ -2,9 +2,10 @@
 	"name": "yash-singh1",
 	"version": "1.0.0",
 	"description": "My GitHub Profile README",
-	"main": "scripts/plantflag.js",
+	"main": "lib/scripts/plantflag.js",
 	"scripts": {
-		"plantflag": "tsc scripts/plantflag.ts && node scripts/plantflag.js"
+		"plantflag": "tsc lib/scripts/plantflag.ts && node lib/scripts/plantflag.js",
+		"refreshflags": "tsc lib/scripts/refreshflags.ts && node lib/scripts/refreshflags.ts"
 	},
 	"repository": {
 		"type": "git",
@@ -17,7 +18,9 @@
 	},
 	"homepage": "https://github.com/Yash-Singh1/Yash-Singh1#readme",
 	"dependencies": {
-		"@actions/github": "^5.0.0"
+		"@actions/github": "^5.0.0",
+		"@octokit/action": "^3.18.1",
+		"dotenv": "^16.0.1"
 	},
 	"devDependencies": {
 		"@types/node": "^17.0.30",

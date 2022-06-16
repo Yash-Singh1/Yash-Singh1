@@ -1,13 +1,11 @@
 import * as fs from 'node:fs';
+import * as process from 'node:process';
 import { context } from '@actions/github';
+import { newFlagTemplate, closingComment, startingComment, startingMessage } from '../util/constants';
 
-const startingComment = '<!-- FLAG FARM START -->';
-const closingComment = '<!-- FLAG FARM END -->';
 const currentREADME = fs.readFileSync('./README.md', 'utf-8');
+const newFlagText = newFlagTemplate(context.actor);
 let flags = currentREADME.split(startingComment)[1].split(closingComment)[0];
-const startingMessage =
-	'_You can click on any of the flags to reveal whose territory it is_\n<br />\n';
-const newFlagText = `[🚩](https://github.com/${context.actor})`;
 
 if (flags.includes(newFlagText)) {
 	console.log('The flag for the user who triggered this star already exists. Aborting...');
