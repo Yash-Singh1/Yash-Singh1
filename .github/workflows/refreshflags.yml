@@ -1,9 +1,6 @@
-name: 'Plant Flag'
+name: 'Refresh Flags'
 
-on:
-  watch:
-    types: [started]
-  workflow_dispatch: {}
+on: workflow_dispatch
 
 jobs:
   plantflag:
@@ -20,11 +17,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Plant Flag
-        run: npm run plantflag
+      - name: Refresh Flags
+        run: npm run refreshflags
 
       - name: Commit Changes
         uses: EndBug/add-and-commit@v9
         with:
           add: 'README.md'
-          message: '🚩 Plant Flag'
+          message: '🔄 Refresh Flags'
