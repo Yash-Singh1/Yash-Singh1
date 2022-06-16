@@ -1,7 +1,7 @@
 import * as fs from 'node:fs';
 import * as process from 'node:process';
 import { context } from '@actions/github';
-import { newFlagTemplate, closingComment, startingComment, startingMessage } from '../util/constants';
+import { newFlagTemplate, closingComment, startingComment, startingMessage } from '../util/constants.js';
 
 const currentREADME = fs.readFileSync('./README.md', 'utf-8');
 const newFlagText = newFlagTemplate(context.actor);

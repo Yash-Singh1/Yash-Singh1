@@ -2,10 +2,11 @@
 	"name": "yash-singh1",
 	"version": "1.0.0",
 	"description": "My GitHub Profile README",
-	"main": "lib/scripts/plantflag.js",
+	"type": "module",
 	"scripts": {
-		"plantflag": "tsc lib/scripts/plantflag.ts && node lib/scripts/plantflag.js",
-		"refreshflags": "tsc lib/scripts/refreshflags.ts && node lib/scripts/refreshflags.ts"
+		"build": "tsc --project tsconfig.json",
+		"plantflag": "npm run build && node lib/scripts/plantflag.js",
+		"refreshflags": "npm run build && node lib/scripts/refreshflags.js"
 	},
 	"repository": {
 		"type": "git",

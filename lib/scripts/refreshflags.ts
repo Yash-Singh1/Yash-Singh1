@@ -1,6 +1,6 @@
 import * as fs from 'node:fs';
 import { Octokit } from '@octokit/action';
-import { owner, repo, startingComment, startingMessage, closingComment, newFlagTemplate } from '../util/constants';
+import { owner, repo, startingComment, startingMessage, closingComment, newFlagTemplate } from '../util/constants.js';
 
 let page = 1;
 let result: any[] = [{}];
