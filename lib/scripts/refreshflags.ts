@@ -14,6 +14,7 @@ while (result.length !== 0) {
 	});
 	result = data;
 	all.concat(...result);
+	page++;
 }
 
 all.map(({ login }) => {
