@@ -13,7 +13,7 @@ while (result.length !== 0) {
 		page
 	});
 	result = data;
-	all.concat(...result);
+	all = all.concat(...result);
 	page++;
 }
 
@@ -23,8 +23,8 @@ all.map(({ login }) => {
 
 let fileContent: string = fs.readFileSync('./README.md', 'utf-8');
 let fileParts: string[] = fileContent.split(startingComment);
-fileParts.push(fileContent[1].split(closingComment)[1]);
-fileParts[1] = fileContent[1].split(closingComment)[0];
+fileParts.push(fileParts[1].split(closingComment)[1]);
+fileParts[1] = fileParts[1].split(closingComment)[0];
 
 if (all.length === 0) {
 	fileParts[1] = 'No flags found. Star this repository to get your flag planted here!';
