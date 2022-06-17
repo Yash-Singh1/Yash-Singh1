@@ -17,7 +17,7 @@ while (result.length !== 0) {
 	page++;
 }
 
-all.map(({ login }) => {
+all = all.map(({ login }) => {
 	return newFlagTemplate(login);
 });
 
