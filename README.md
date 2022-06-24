@@ -77,6 +77,7 @@ _You can click on any of the flags to reveal whose territory it is_
     <img src="https://img.shields.io/badge/-TypeScript-2e3440?logoColor=white&logo=TypeScript&style=for-the-badge&color=2b7489" />
     <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=white&logo=nodedotjs&style=for-the-badge&color=green" />
     <img src="https://img.shields.io/badge/-CoffeeScript-2e3440?logoColor=white&logo=CoffeeScript&style=for-the-badge&color=244776" />
+    <img src="https://img.shields.io/badge/-Vue.js-2e3440?logoColor=white&logo=Vuedotjs&style=for-the-badge&color=41b883" />
     <img src="https://img.shields.io/badge/-HTML5-2e3440?logoColor=white&logo=html5&style=for-the-badge&color=e34c26" />
     <img src="https://img.shields.io/badge/-CSS3-2e3440?logoColor=white&logo=CSS3&style=for-the-badge&color=563d7c" />
     <img src="https://img.shields.io/badge/-SCSS-2e3440?logoColor=white&logo=Sass&style=for-the-badge&color=CC6699" />
