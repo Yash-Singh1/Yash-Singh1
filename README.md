@@ -32,6 +32,14 @@ _You can click on any of the flags to reveal whose territory it is_
 <details>
 
 <summary>My GitHub Stats</summary>
+
+<div align="center">
+  <strong>NOTE: Don't solely depend on these statistics to determine proficiency in skills</strong>
+  <details>
+    <summary>Why?</summary>
+    Some PRs/commits may have taken a month, while others may have taken half a minute. Some languages may be more verbose or contain embedded languages. Sometimes a short line of code might have taken a whole day to write. All these factors reduce the value in these statistics to some effectiveness.
+  </details>
+</div>
   
 <div align="center">
   <div align="center">
