@@ -79,20 +79,46 @@ _You can click on any of the flags to reveal whose territory it is_
 <br />
 
 <p align="center">
-  <a href="javascript:;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-JavaScript-2e3440?logoColor=black&logo=JavaScript&style=for-the-badge&color=f1e05a" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-React-2e3440?logoColor=white&logo=React&style=for-the-badge&color=purple" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-TypeScript-2e3440?logoColor=white&logo=TypeScript&style=for-the-badge&color=2b7489" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=white&logo=nodedotjs&style=for-the-badge&color=green" />
+  </a>
+  <a href="https://coffeescript.org/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-CoffeeScript-2e3440?logoColor=white&logo=CoffeeScript&style=for-the-badge&color=244776" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-Vue.js-2e3440?logoColor=white&logo=Vuedotjs&style=for-the-badge&color=41b883" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-HTML5-2e3440?logoColor=white&logo=html5&style=for-the-badge&color=e34c26" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-CSS3-2e3440?logoColor=white&logo=CSS3&style=for-the-badge&color=563d7c" />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-SCSS-2e3440?logoColor=white&logo=Sass&style=for-the-badge&color=CC6699" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-Bash-2e3440?logoColor=black&logo=GNU%20Bash&style=for-the-badge&color=89e051" />
+  </a>
+  <a href="https://www.autohotkey.com/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-AHK-2e3440?logoColor=white&logo=AutoHotKey&style=for-the-badge&color=6594b9" />
-    <img src="https://img.shields.io/badge/-C%23-2e3440?logoColor=white&logo=C%20Sharp&style=for-the-badge&color=178600" />
+  </a>
+  <a href="https://unity.com/" target="_blank" title="Learn More">
+    <img src="https://img.shields.io/badge/-Unity-2e3440?logoColor=white&logo=Unity&style=for-the-badge&color=000000" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-Python-2e3440?logoColor=white&logo=Python&style=for-the-badge&color=3572A5" />
+  </a>
+  <a href="https://cplusplus.com/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-C++-2e3440?logoColor=white&logo=cplusplus&style=for-the-badge&color=F34B7D" />
   </a>
 </p>
