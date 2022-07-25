@@ -69,7 +69,7 @@ _You can click on any of the flags to reveal whose territory it is_
   <br />
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=Yash-Singh1&theme=nord&column=7" alt="Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Yash-Singh1&theme=nord&column=8" alt="Trophies" />
     </a>
   </div>
 </div>
