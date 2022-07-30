@@ -9,7 +9,7 @@ I am Yash Singh, an incoming freshman, programming multiple different things. Yo
 ## 📝 Getting to Know Me
 
 - ⚛️ I love React and Svelte
-- 🐧 I use ZSH as my terminal
+- 🐧 I use ZSH as my shell on Alacritty + `tmux`
 - 🌱 Rewriting my personal site
 - 📰 Read my [blog](https://www.yashsingh.us/blog/)
 
