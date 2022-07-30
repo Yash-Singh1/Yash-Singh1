@@ -10,7 +10,7 @@ I am Yash Singh, an incoming freshman, programming multiple different things. Yo
 
 - ⚛️ I love React and Svelte
 - 🐧 I use ZSH as my shell on Alacritty + `tmux`
-- 🌱 Rewriting my personal site
+- 🌱 Learning GraphQL
 - 📰 Read my [blog](https://www.yashsingh.us/blog/)
 
 ## 🚩 Flag Farm
