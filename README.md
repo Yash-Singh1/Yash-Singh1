@@ -8,7 +8,7 @@ I am Yash Singh, an incoming freshman, programming multiple different things. Yo
 
 ## 📝 Getting to Know Me
 
-- ⚛️ I love React and Svelte
+- ⚛️ I love React and Vue
 - 🐧 I use ZSH as my shell on Alacritty + `tmux`
 - 🌱 Learning GraphQL
 - 📰 Read my [blog](https://www.yashsingh.us/blog/)
