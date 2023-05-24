@@ -8,9 +8,9 @@ I am Yash Singh, a high school freshman, programming multiple different things. 
 
 ## 📝 Getting to Know Me
 
-- ⚛️ I love React and Vue
+- ⚛️ I ❤️ T3. Join the [movement](https://create.t3.gg/).
 - 🐧 I use ZSH as my shell on Alacritty + `tmux`
-- 🌱 Learning GraphQL
+- 🌱 Learning Stripe payments and how to build mechanical keyboards
 - 📰 Read my [blog](https://www.yashsingh.us/blog/)
 
 ## 🚩 Flag Farm
