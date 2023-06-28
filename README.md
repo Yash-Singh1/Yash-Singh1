@@ -4,7 +4,7 @@
 
 # Hey There! <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="40" /> <img src="https://komarev.com/ghpvc/?username=Yash-Singh1&color=ff69b4&label=visitors&style=flat-square" align="right" />
 
-I am Yash Singh, a high school freshman fullstack software engineer. I love programming multiple different things in my free time, from websites to CLIs to microcontrollers. You can learn more about me here: <https://www.yashsingh.us/>.
+I am Yash Singh, an incoming high school sophomore fullstack software engineer. I love programming multiple different things in my free time, from websites to CLIs to microcontrollers. You can learn more about me here: <https://www.yashsingh.us/>.
 
 ## 📝 Getting to Know Me
 
