@@ -56,13 +56,6 @@ _You can click on any of the flags to reveal whose territory it is_
     </a>
   </div>
   <div align="center">
-    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center" title="Go to Source">
-      <img
-        src="https://activity-graph.herokuapp.com/graph?username=Yash-Singh1&theme=react-dark&bg_color=20232a&hide_border=true&area=true"
-        alt="Contributions Graph"
-        width="100%"
-      />
-    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
         align="center"
