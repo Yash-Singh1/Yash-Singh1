@@ -8,7 +8,7 @@ I am Yash Singh, a high school sophomore fullstack software engineer. I love pro
 
 ## 📝 Getting to Know Me
 
-- ⚛️ I ❤️ T3. Join the [movement](https://create.t3.gg/).
+- ⚛️ I ❤️ T3. You should [too](https://create.t3.gg/).
 - 🐧 I use ZSH as my shell on Alacritty + `tmux`
 - 🌱 Learning Stripe payments and how to build mechanical keyboards
 - 📰 Read my [blog](https://www.yashsingh.us/blog/)
