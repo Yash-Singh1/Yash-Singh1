@@ -20,7 +20,7 @@
 	"homepage": "https://github.com/Yash-Singh1/Yash-Singh1#readme",
 	"dependencies": {
 		"@actions/github": "^5.0.0",
-		"@octokit/action": "^4.0.4",
+		"@octokit/action": "^5.0.2",
 		"dotenv": "^16.0.1"
 	},
 	"devDependencies": {
