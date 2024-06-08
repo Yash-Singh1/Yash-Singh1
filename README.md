@@ -118,3 +118,6 @@ _You can click on any of the flags to reveal whose territory it is_
     <img src="https://img.shields.io/badge/-C++-2e3440?logoColor=white&logo=cplusplus&style=for-the-badge&color=F34B7D" />
   </a>
 </p>
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Yash-Singh1/Yash-Singh1/blob/main/assets/bg.png?raw=true') no-repeat center center; background-size: cover;]{x0000}$}
