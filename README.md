@@ -2,7 +2,7 @@
 
 ![banner](https://miro.medium.com/max/2560/1*nPpAXaLi47zxgyqy8Hmf-g.png)
 
-# Hey There! <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="40" /> <img src="https://komarev.com/ghpvc/?username=Yash-Singh1&color=ff69b4&label=visitors&style=flat-square" align="right" />
+# Hey There! <img src="https://github.com/Yash-Singh1/Yash-Singh1/assets/53054099/0b7757d1-6d13-4af8-9ecf-2fe67b5dfbe7" width="40" />
 
 I am Yash Singh, a high school sophomore fullstack software engineer. I love programming multiple different things in my free time, from websites to CLIs to microcontrollers. You can learn more about me here: <https://www.yashsingh.us/>.
 
