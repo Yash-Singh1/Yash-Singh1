@@ -2,7 +2,7 @@
 
 # Hey There!
 
-I am Yash Singh, a high school sophomore fullstack software engineer. I love programming multiple different things in my free time, from websites to CLIs to microcontrollers. You can learn more about me here: <https://www.yashsingh.us/>.
+I am Yash Singh, a high school junior fullstack software engineer. I love programming multiple different things in my free time, from websites to CLIs to microcontrollers. You can learn more about me here: <https://www.yashsingh.us/>.
 
 ## 📝 Getting to Know Me
 
