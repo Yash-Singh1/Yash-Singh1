@@ -20,7 +20,7 @@ You can plant your flag on my README! Just ⭐ this repository and it will updat
 
 _You can click on any of the flags to reveal whose territory it is_
 <br />
-[🚩](https://github.com/CFrancis03) [🚩](https://github.com/tonyaellie) [🚩](https://github.com/furtivespy) [🚩](https://github.com/shreyvish5678) [🚩](https://github.com/jcjms) [🚩](https://github.com/averagescriptkiddie) [🚩](https://github.com/proballstar) [🚩](https://github.com/thedev132) [🚩](https://github.com/Gaurav-Ban22) [🚩](https://github.com/EpicCodeWizard) [🚩](https://github.com/Good4lien) [🚩](https://github.com/bean-frog) [🚩](https://github.com/gitryder) [🚩](https://github.com/saiveer-singh) [🚩](https://github.com/alexsanjoseph) [🚩](https://github.com/mattwelke) [🚩](https://github.com/ashpool37) [🚩](https://github.com/Yash-Singh1)
+[🚩](https://github.com/isaacdyor) [🚩](https://github.com/CFrancis03) [🚩](https://github.com/tonyaellie) [🚩](https://github.com/furtivespy) [🚩](https://github.com/shreyvish5678) [🚩](https://github.com/jcjms) [🚩](https://github.com/averagescriptkiddie) [🚩](https://github.com/proballstar) [🚩](https://github.com/thedev132) [🚩](https://github.com/Gaurav-Ban22) [🚩](https://github.com/EpicCodeWizard) [🚩](https://github.com/Good4lien) [🚩](https://github.com/bean-frog) [🚩](https://github.com/gitryder) [🚩](https://github.com/saiveer-singh) [🚩](https://github.com/alexsanjoseph) [🚩](https://github.com/mattwelke) [🚩](https://github.com/ashpool37) [🚩](https://github.com/Yash-Singh1)
 <details>
 <summary>More Flags</summary>
 
